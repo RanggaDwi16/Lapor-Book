@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1068908739087",
+    "project_id": "lapor-book-sertifikasi",
+    "storage_bucket": "lapor-book-sertifikasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068908739087:android:d55468bcbcd4e53da5817a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_keuangan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr7O7BjXy6OygVsvg3Y5ssoHWq7PHkDQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
